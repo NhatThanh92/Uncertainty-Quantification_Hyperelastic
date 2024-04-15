@@ -7,9 +7,12 @@ The soft tissues of the pelvis are characterized using both Neo-Hookean and Moon
  - Based on a literature review, C10 is estimated at 0.05 ± 0.01 MPa and D1 at 24 ± 5 MPa-1.
  - The Quantities of Interest (QoI) are the maximal values of Von-Mises stresses (S).
 ![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/7bb05470-2a80-45b1-a47f-512304d7304a)
-**Fig 1. CDF of Max_stress from Mooney-Rivlin (a) and Neo-Hookean law (b)**
+   **Fig 1. CDF of Max_stress from Mooney-Rivlin (a) and Neo-Hookean law (b).**
 ## 2.Imprecise Probability:
 
  - Epistemic uncertainties, arising from potential data and knowledge gaps in identifying variables C10 and D1, are managed using a probability-box (P-box) approach.
  - The P-box determines the unknown Cumulative Distribution Function (CDF) of random variable X by its lower and upper bound distributions.
    This approach aims to provide input data for simulation while disregarding any correlations between variables.
+
+![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/9fd6d024-9c99-4c4a-9ce0-b389cc76edd8)
+ **Fig 2. The Horsetail plot generates 100 potential CDFs of normal distribution for C10 and D1 (following N(μ, σ)) to supply input data for Monte Carlo simulation.**
