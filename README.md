@@ -6,7 +6,7 @@ The soft tissues of the pelvis are characterized using both Neo-Hookean and Moon
 ![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/d104422b-43e7-4ad9-9828-724087946e15).
  
   ![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/392b2083-da43-4fd3-86d9-c80f78c679d0)
-      **Fig 1: Simulation of the movement of the sphere out of the uterus, including analysis of implicit dynamics and damping coefficients.**
+      **Fig 1. Simulation of the movement of the sphere out of the uterus, including analysis of implicit dynamics and damping coefficients.**
   [(Video)](https://drive.google.com/file/d/18AQFX1sN7oO8YzmQiNYsL-Tf6i3EFKYC/view?usp=sharing)
 
 ## 1.Precise Probability:
