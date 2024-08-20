@@ -5,10 +5,9 @@ The soft tissues of the pelvis are characterized using both Neo-Hookean and Moon
 
 ![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/d104422b-43e7-4ad9-9828-724087946e15).
  
-  ![image](https://github.com/NhatThanh92/Uncertainty-Quantification/assets/51020597/392b2083-da43-4fd3-86d9-c80f78c679d0)
+  ![Media1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c313419b-3ca4-4319-a147-47174a8a50c3)
       **Fig 1. Simulation of the movement of the sphere out of the uterus, including analysis of implicit dynamics and damping coefficients.**
-![Media1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c313419b-3ca4-4319-a147-47174a8a50c3)
-
+      
 ## 1.Precise Probability:
  - Based on a literature review, C10 is estimated at 0.05 ± 0.01 MPa and D1 at 24 ± 5 MPa-1.
  - The Quantities of Interest (QoI) are the maximal values of Von-Mises stresses (S).
